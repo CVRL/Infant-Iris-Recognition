@@ -44,7 +44,7 @@ The trained model weights can be downloaded from this [Box folder](https://notre
 Please cite our paper if you use any part of our code or data.
 
 ```
-@InProceedings{bhuiyan2024forensic,
+@InProceedings{bhuiyan2025infant,
   author = {Bhuiyan, Rasel Ahmed and Trokielewicz, Mateusz and Maciejewicz, Piotr and Bucher, Sherri and Czajka, Adam},
   booktitle = {IEEE/CVF Winter Conference on Applications of Computer Vision (WACV)},
   title     = {Iris Recognition for Infants},
