@@ -49,7 +49,7 @@ Run the following Python script to visualize the segmentation mask:
 python3 iris-segmentation-visualization.py
 ``
 
-### Obtaining the Trained Model Weights
+## Obtaining the Trained Model Weights
 The trained model weights can be downloaded from this [Box folder](https://notredame.box.com/s/rwmh0q57pl65hzrzbdpwnfl7kjxfa7ib) and put them into the models folder. 
 
 ## Citation
