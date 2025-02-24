@@ -13,7 +13,7 @@ Non-invasive, efficient, physical token-less, accurate and stable identification
   <img src="./figures/results.png" style="width:100%">
   <figcaption>Figure2: Distributions of genuine and impostor scores for four combinations of the proposed Infant Iris Segmentation (IIS) model and various iris texture encoding methods originating from four different iris recognition approaches. We see a significant boost in performance when the proposed segmentation model is incorporated into infant iris recognition pipeline.</figcaption>
 
-## Running the models
+## Running the infant iris segmentation (IIS) models
 
 ### Create Environment
 Set up Python environment using Conda:
@@ -22,17 +22,11 @@ Set up Python environment using Conda:
 conda env create -f environment.yml
 ``
 
-### Prediction and Training
-1.) Run the following bash script to train the subject disjoint models:
+### Training
+1.) Run the following bash script to train the segmentation model:
 
 ``
-./train_sub_disj.sh
-``
-
-2.) Run the following bash script to train the cross-dataset models:
-
-``
-./train_cross_dt.sh
+./train.sh
 ``
 
 ***Note: Make sure you have provided all the valid paths in the script.***
