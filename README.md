@@ -13,7 +13,10 @@ Non-invasive, efficient, physical token-less, accurate and stable identification
   <img src="./figures/results.png" style="width:100%">
   <figcaption>Figure2: Distributions of genuine and impostor scores for four combinations of the proposed Infant Iris Segmentation (IIS) model and various iris texture encoding methods originating from four different iris recognition approaches. We see a significant boost in performance when the proposed segmentation model is incorporated into infant iris recognition pipeline.</figcaption>
 
-## Running the infant iris segmentation (IIS) models
+## Dataset
+
+
+## Running the infant iris segmentation (IIS) model
 
 ### Create Environment
 Set up Python environment using Conda:
