@@ -23,7 +23,7 @@ conda env create -f environment.yml
 ``
 
 ### Training
-1.) Run the following bash script to train the segmentation model:
+Run the following bash script to train the segmentation model:
 
 ``
 ./train.sh
@@ -31,8 +31,22 @@ conda env create -f environment.yml
 
 ***Note: Make sure you have provided all the valid paths in the script.***
 
+### Perform segmentation
+Run the following Python script to perform infant iris segmentation:
+
+``
+python3 segment-iris.py
+``
+
+### Segmentation visualization
+Run the following Python script to visualize the segmentation mask:
+
+``
+python3 iris-segmentation-visualization.py
+``
+
 ### Obtaining the Trained Model Weights
-The trained model weights can be downloaded from this [Box folder](https://notredame.box.com/s/5nugb0k602d28va3exlkzkec2wzokyh3).
+The trained model weights can be downloaded from this [Box folder](https://notredame.box.com/s/rwmh0q57pl65hzrzbdpwnfl7kjxfa7ib) and put them into the models folder. 
 
 ## Citation
 Please cite our paper if you use any part of our code or data.
