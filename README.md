@@ -13,7 +13,8 @@ Non-invasive, efficient, physical token-less, accurate and stable identification
   <img src="./figures/results.png" style="width:100%">
   <figcaption>Figure2: Distributions of genuine and impostor scores for four combinations of the proposed Infant Iris Segmentation (IIS) model and various iris texture encoding methods originating from four different iris recognition approaches. We see a significant boost in performance when the proposed segmentation model is incorporated into infant iris recognition pipeline.</figcaption>
 
-## Dataset
+## Obtaining the Dataset
+To access the infant iris synthesis dataset offered with this paper, you can request a copy from the [University of Notre Dame Computer Vision Research Lab](https://cvrl.nd.edu/projects/data). The specific collection related to this work is titled "Synthetic Infant Iris (UND-NBSI-2025) Dataset"
 
 
 ## Running the infant iris segmentation (IIS) model
