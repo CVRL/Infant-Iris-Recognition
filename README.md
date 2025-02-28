@@ -10,11 +10,13 @@ Non-invasive, efficient, physical token-less, accurate and stable identification
   <img src="./figures/segvis.png" style="width:100%">
   <figcaption>Figure1: Comparison of iris segmentation visualizations across various states: infant, adult, and post-mortem. The visualizations compare the performance of our developed model with state-of-the-art methods. The model effectively segments irises with varying characteristics, including dark, bright, small, and large pupils.</figcaption>
 </figure>
+<br>
 
 <figure>
   <img src="./figures/results.png" style="width:100%">
   <figcaption>Figure2: Distributions of genuine and impostor scores for four combinations of the proposed Infant Iris Segmentation (IIS) model and various iris texture encoding methods originating from four different iris recognition approaches. We see a significant boost in performance when the proposed segmentation model is incorporated into infant iris recognition pipeline.</figcaption>
 </figure>
+<br>
 
 ## Obtaining the Dataset
 To access the infant iris synthesis dataset offered with this paper, you can request a copy from the [University of Notre Dame Computer Vision Research Lab](https://cvrl.nd.edu/projects/data/#nd-nbsi-2025-dataset). The specific collection related to this work is titled "ND-NBSI-2025 Dataset".
