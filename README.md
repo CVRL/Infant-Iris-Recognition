@@ -19,9 +19,9 @@ Non-invasive, efficient, physical token-less, accurate and stable identification
 <br><br><br>
 
 ## Obtaining the Dataset
-To access the infant iris synthesis dataset offered with this paper, you can request a copy from the [University of Notre Dame Computer Vision Research Lab](https://cvrl.nd.edu/projects/data/#nd-nbsi-2025-dataset). The specific collection related to this work is titled "ND-NBSI-2025 Dataset".
-
 The ND-NBSI-2025 Dataset consists of 1,000 iris images synthesized by a model trained to mimic near-infrared iris images captured from infants. There are two samples representing each of the 500 non-existing infant eyes. Each sample comes with a binary segmentation mask.
+
+You can request a copy of the dataset of synthesized newborn iris images from the [University of Notre Dame's Computer Vision Research Lab](https://cvrl.nd.edu/projects/data/#nd-nbsi-2025-dataset) by executing the data sharing license agreement. The specific collection related to this work is titled "ND-NBSI-2025 Dataset". 
 
 ## Running the Infant Iris Segmentation (IIS) Model
 
