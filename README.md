@@ -1,6 +1,6 @@
 # Iris Recognition for Infants 
 
-Official repository for the IEEE/CVF Winter Conference on Applications of Computer Vision Workshop (WACVW 2025) paper: 
+Official repository for the IEEE/CVF Winter Conference on Applications of Computer Vision Workshop (WACVW 2025) paper: <br>
 **IEEEXplore | [ArXiv](https://arxiv.org/abs/2501.01375)**.
 
 ## Abstract
