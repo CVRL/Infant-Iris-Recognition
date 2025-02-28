@@ -16,7 +16,7 @@ Non-invasive, efficient, physical token-less, accurate and stable identification
   <img src="./figures/results.png" style="width:100%">
   <figcaption>Figure 2: Distributions of genuine and impostor scores for four combinations of the proposed Infant Iris Segmentation (IIS) model and various iris texture encoding methods originating from four different iris recognition approaches. We see a significant boost in performance when the proposed segmentation model is incorporated into infant iris recognition pipeline.</figcaption>
 </figure>
-<br><br><br>
+<br>
 
 ## Obtaining the Dataset
 The ND-NBSI-2025 Dataset consists of 1,000 iris images synthesized by a model trained to mimic near-infrared iris images captured from infants. There are two samples representing each of the 500 non-existing infant eyes. Each sample comes with a binary segmentation mask.
